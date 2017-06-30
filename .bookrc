@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "The Valley of Fear",
-  "type": "text"
+  "type": "text",
+  "book_id": 465
 }
